@@ -1,2 +1,2 @@
 # hello-world
-M first repository - "Hello World"
+My first repository - "Hello World"
